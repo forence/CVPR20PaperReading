@@ -1,3 +1,5 @@
+Here is a summary of **Vision and Language** tasks on CVPR 2020, please enjoy!
+
 # Image/Video Captioning
 
 1. Say As You Wish: Fine-Grained Control of Image Caption Generation With Abstract Scene Graphs   `oral` `Shizhe Chen`
