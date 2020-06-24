@@ -159,7 +159,7 @@ Here is a summary of **Vision and Language** tasks on CVPR 2020, please enjoy!
        <img src="https://i.loli.net/2020/06/24/rOGQ1ln9S36P4VJ.png" alt="image-20200624141520520" />
    </details>
 
-4.  Iterative Answer Prediction With Pointer-Augmented Multimodal Transformers for TextVQA   `oral`
+4. Iterative Answer Prediction With Pointer-Augmented Multimodal Transformers for TextVQA   `oral`
 
    <details>
      <summary>details</summary>
@@ -298,7 +298,7 @@ Here is a summary of **Vision and Language** tasks on CVPR 2020, please enjoy!
        <img src="https://i.loli.net/2020/06/24/AMd45NS9wkyQltB.png" alt="image-20200624142656931" />
    </details>
 
-2.  REVERIE: Remote Embodied Visual **Referring Expression** in Real Indoor Environments   `oral` `Peter Anderson Qi Wu, William Yang Wang`
+2. REVERIE: Remote Embodied Visual **Referring Expression** in Real Indoor Environments   `oral` `Peter Anderson Qi Wu, William Yang Wang`
 
    <details>
      <summary>details</summary>
