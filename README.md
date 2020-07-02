@@ -368,12 +368,11 @@
 7. Speech2Action: Cross-modal Supervision for Action Recognition `VGG`
 8. Uncertainty-aware Score Distribution Learning for Action Quality Assessment 
 9. FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding `Dahua Lin`
-10. FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding
-11. Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks
-12. TEA: Temporal Excitation and Aggregation for Action Recognition
-13. Intra- and Inter-Action Understanding via Temporal Action Parsing `Dahua lin`
-14. Temporal Pyramid Network for Action Recognition
-15. Multi-Modal Domain Adaptation for Fine-Grained Action Recognition
+10. Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks
+11. TEA: Temporal Excitation and Aggregation for Action Recognition
+12. Intra- and Inter-Action Understanding via Temporal Action Parsing `Dahua lin`
+13. Temporal Pyramid Network for Action Recognition
+14. Multi-Modal Domain Adaptation for Fine-Grained Action Recognition
 
 # Skeleton-based Action Recognition
 1. Context Aware Graph Convolution for Skeleton-Based Action Recognition `Dacheng Tao`
