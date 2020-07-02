@@ -357,6 +357,49 @@
        <img src="https://i.loli.net/2020/06/24/hocTOest1bqWdpX.png" alt="image-20200624153001847"  />
    </details>
 
+# Video-based Action Recognition
+
+1. SmallBigNet: Integrating Core and Contextual Views for Video Classification `Yu Qiao`
+2. 3DV: 3D Dynamic Voxel for Action Recognition in Depth Video 
+3. Video Modeling with Correlation Networks `Facebook AI`
+4. X3D: Expanding Architectures for Efficient Video Recognition `Facebook AI`
+5. Regularization on Spatio-Temporally Smoothed Feature for Action Recognition
+6. Listen to Look: Action Recognition by Previewing Audio
+7. Speech2Action: Cross-modal Supervision for Action Recognition `VGG`
+8. Uncertainty-aware Score Distribution Learning for Action Quality Assessment 
+9. FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding `Dahua Lin`
+10. FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding
+11. Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks
+12. TEA: Temporal Excitation and Aggregation for Action Recognition
+13. Intra- and Inter-Action Understanding via Temporal Action Parsing `Dahua lin`
+14. Temporal Pyramid Network for Action Recognition
+15. Multi-Modal Domain Adaptation for Fine-Grained Action Recognition
+
+# Skeleton-based Action Recognition
+1. Context Aware Graph Convolution for Skeleton-Based Action Recognition `Dacheng Tao`
+2. PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition
+3. Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition `MSRA`
+4. Skeleton-Based Action Recognition with Shift Graph Convolutional Network
+5. Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition `Wanli Ouyang`
+
+# Action Detection
+1. G-TAD: Sub-Graph Localization for Temporal Action Detection
+2. Learning Temporal Co-Attention Models for Unsupervised Video Action Localization
+3. Weakly-Supervised Action Localization by Generative Attention Modeling
+4. Learning to Discriminate Information for Online Action Detection
+
+# Action Segmentation
+1. Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation
+2. SCT: Set Constrained Temporal Transformer for Set Supervised Action Segmentation
+3. Improving Action Segmentation via Graph Based Temporal Reasoning
+4. Set-Constrained Viterbi for Set-Supervised Action Segmentation
+
+# Video Representation
+1. Large Scale Video Representation Learning via Relational Graph Clustering
+2. Screencast Tutorial Video Understanding
+3. Evolving Losses for Unsupervised Video Representation Learning
+4. A Multigrid Method for Efficiently Training Video Models `Kaiming He`
+
 # Others
 
 1. Visual Commonsense R-CNN	`Hanwang Zhang`
